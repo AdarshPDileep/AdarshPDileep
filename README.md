@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**AdarshPDileep/AdarshPDileep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat" width="180"/>
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Adarsh+P+Dileep;Fullstack+Development+❤️🌐;22+y/o+from+India)
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdarshPDileep&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshPDileep&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshPDileep&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </div>
+
+  <br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshPDileep&theme=github_dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+# 👨🏻‍💻 About Me
+
+**Adarsh P Dileep** • 22 y/o • India
+
+> Passionate about Fullstack Development in Spring Boot, React.js, Mysl.  
+> My goal is to become a **FullStack Developer** and help build a safer digital ecosystem while creating modern, functional web projects.
+
+🌱 Currently deepening my knowledge in **HTML & CSS**  
+🤝 Available for front-end freelancing and small web projects  
+🔍 Currently exploring the fascinating world of the web  
+⚡ Fun fact: I started my programming journey at just 14 years old
+
+``` json
+{
+    "name": "Adarsh P Dileep",
+    "pronouns": "He/Him",
+    "title": "Full stack Developer",
+    "focus": "React.js , Spring Boot , Mysql",
+    "currently": "Creating Websites",
+    "learning": "Overview of study"
+}
+```
+
+## 🛠️ Tech Stack
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+
+## 🧰 Tools I Use
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+<div align="center">
+  <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshPDileep&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdarshPDileep&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
