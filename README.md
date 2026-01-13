@@ -28,7 +28,7 @@
 > Passionate about Fullstack Development in Spring Boot, React.js, Mysl.  
 > My goal is to become a **FullStack Developer** and help build a safer digital ecosystem while creating modern, functional web projects.
 
-🌱 Currently deepening my knowledge in **HTML & CSS**  
+🌱 Currently deepening my knowledge in **REACT & SPRING BOOT**  
 🤝 Available for front-end freelancing and small web projects  
 🔍 Currently exploring the fascinating world of the web  
 ⚡ Fun fact: I started my programming journey at just 14 years old
